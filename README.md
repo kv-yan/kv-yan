@@ -30,6 +30,3 @@ I'm an **Android Developer** with over 2 years of experience in creating and mai
 - [LinkedIn](https://www.linkedin.com/in/karen-vardanyan-a40927225/)
 - [Telegram](https://t.me/vardanyankaren_03)
 
----
-
-Feel free to copy this to your GitHub profile. Let me know if there's anything else you'd like to add or modify!
