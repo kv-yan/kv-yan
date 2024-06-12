@@ -5,8 +5,8 @@ I'm an **Android Developer** with over 2 years of experience in creating and mai
 #### 🚀 My Tech Stack:
 - **Languages & Frameworks:**
   -  Android SDK
-  -  Java | 🅺 Kotlin
-  - Jetpack Compose | 📝 XML
+  -  Java | Kotlin
+  - Jetpack Compose | XML
 - **Architecture & Design:**
   - SOLID Principles
   - Clean Architecture
