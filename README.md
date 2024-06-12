@@ -1,5 +1,3 @@
-Sure, Karen! Here's a GitHub profile description that highlights your skills and experience, along with relevant emojis to make it visually engaging:
-
 ---
 
 ### 👋 Hi there, I'm Karen Vardanyan!
