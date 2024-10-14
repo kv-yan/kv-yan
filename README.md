@@ -19,6 +19,7 @@ I'm an **Android Developer** with over 2 years of experience in creating and mai
   - Room | Realm
 - **Backend:**
   - REST API
+  - GraphQL
 - **Dependency Injection:**
   - Dagger2 | Hilt | Koin
 - **Additional Tools:**
