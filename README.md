@@ -2,10 +2,17 @@
 
 I'm an **Android Developer** with over 2 years of experience in creating and maintaining various applications. I work quickly and use only modern technologies. I've worked both in companies and as a freelancer, handling everything from building apps from scratch to maintaining existing ones. I even have experience working with decompiled code.
 
+---
+
+### 🎥 Featured Project Demo
+[![Watch the video](https://img.youtube.com/vi/kR5LNg1XN5U/0.jpg)](https://youtu.be/kR5LNg1XN5U)
+
+---
+
 #### 🚀 My Tech Stack:
 - **Languages & Frameworks:**
-  -  Android SDK
-  -  Java | Kotlin
+  - Android SDK
+  - Java | Kotlin
   - Jetpack Compose | XML
 - **Architecture & Design:**
   - SOLID Principles
@@ -27,7 +34,8 @@ I'm an **Android Developer** with over 2 years of experience in creating and mai
   - DataBinding | ViewBinding
   - Git
 
+---
+
 #### 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/karen-vardanyan-a40927225/)
 - [Telegram](https://t.me/vardanyankaren_03)
-
