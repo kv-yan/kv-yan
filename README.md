@@ -4,7 +4,7 @@ I'm an **Android Developer** with over 2 years of experience in creating and mai
 
 ---
 
-### 🎥 Featured Project Demo
+### 🎥 
 [![Watch the video](https://img.youtube.com/vi/kR5LNg1XN5U/0.jpg)](https://youtu.be/kR5LNg1XN5U)
 
 ---
