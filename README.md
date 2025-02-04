@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Karen Vardanyan!
 
-I'm an **Android Developer** with over 2 years of experience in creating and maintaining various applications. I work quickly and use only modern technologies. I've worked both in companies and as a freelancer, handling everything from building apps from scratch to maintaining existing ones. I even have experience working with decompiled code.
+I'm an **Android Developer** with over 3 years of experience in creating and maintaining various applications. I work quickly and use only modern technologies. I've worked both in companies and as a freelancer, handling everything from building apps from scratch to maintaining existing ones. I even have experience working with decompiled code.
 
 ---
 
